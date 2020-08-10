@@ -1,9 +1,6 @@
 //Importing all utilities/inputs outputs.
 import java.util.Scanner;
 import java.io.IOException;
-import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.List;
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 
